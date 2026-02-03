@@ -1,3 +1,7 @@
+[![NuGet Version](https://img.shields.io/nuget/v/BVH2D)](https://www.nuget.org/packages/BVH2D/)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/BVH2D)](https://www.nuget.org/packages/BVH2D/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # BVH2D
 
 A high-performance 2D Bounding Volume Hierarchy (BVH) library for C# / .NET, designed for efficient spatial queries and collision detection in 2D space.
